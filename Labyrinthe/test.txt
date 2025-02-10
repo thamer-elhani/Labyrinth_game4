@@ -1,0 +1,7 @@
+directory
+good
+sensor
+daylight
+thinking
+station
+supernova

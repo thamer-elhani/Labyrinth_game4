@@ -1,0 +1,12 @@
+org\yourcompany\Board\Node.class
+org\yourcompany\Board\ScreenUI.class
+org\yourcompany\Board\Player.class
+org\yourcompany\Board\Enemy.class
+org\yourcompany\Board\GarphicsUI.class
+org\yourcompany\Board\KeyHandler.class
+org\yourcompany\Board\Labyrinthe.class
+org\yourcompany\Board\Playground.class
+org\yourcompany\Board\DijkstraAlgo.class
+org\yourcompany\Board\FileHandler.class
+org\yourcompany\Board\FinishPoint.class
+org\yourcompany\Board\GlobalVar.class
